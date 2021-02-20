@@ -10,6 +10,6 @@
 
 1) Clone the repository
 2) In the terminal cd to the file you cloned the repo in
-3) run: ```node messageGenerator.js```
+3) run : ```node messageGenerator.js``` in the terminal
 4) Have fun :)
 
